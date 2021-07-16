@@ -1,0 +1,42 @@
+.menu{
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: 400;
+    color: white;
+}
+.facts1{
+    display: flex;
+    justify-content: space-between;
+    background-color: gray;
+    border-style:solid;
+    border-color:black;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: 400;
+    color: white;
+}
+.facts2{
+    display: flex;
+    justify-content: space-between;
+    background-color: gray;
+    border-style:solid;
+    border-color:black;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: 400;
+    color: white;
+}
+.factsAll{
+    display: flex;
+    justify-content: space-between;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: 400;
+    color: white;
+}
+body{
+    background-color: whitesmoke;
+}
